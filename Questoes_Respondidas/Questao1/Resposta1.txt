@@ -1,0 +1,1 @@
+O resultado seria um objeto com altura 1 , largura 4 e valor dos pixeis [226, 166, 119, 55] pois todos os valores originais iriam ser subtraidos de 255(valor maximo) resultando nestes novos valores

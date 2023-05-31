@@ -1,0 +1,1 @@
+O que cada Kernel esta fazendo e procurar variações de bruscas no eixo X e no Y essas variações bruscas sao bordas e retornam valores bem altos ficando assim em destaque as bordas 
